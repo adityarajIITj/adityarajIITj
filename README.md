@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 currently working upon health based ai systems<br>i am currently not looking for any collaboration's as i prefer solo work<br>i am currently learning touch designer advanced python and machine learning<br>ask me about anything related to ML agentic ide's, full stack deployments <br>fun fact i cracked jee 4 times
 
 
