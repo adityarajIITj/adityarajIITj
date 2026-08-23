@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="214" viewBox="0 0 490 214">
+<style>
+
+          @keyframes infoFadeSlide {
+            0%   { opacity: 0; transform: translateX(-12px); }
+            100% { opacity: 1; transform: translateX(0); }
+          }
+          .info-row {
+            opacity: 0;
+            animation: infoFadeSlide 0.4s ease-out forwards;
+          }
+        
+</style>
+<rect width="490" height="214" rx="8" fill="#0d1117"/>
+<rect width="490" height="44" rx="8" fill="#161b22"/>
+<rect x="0" y="36" width="490" height="8" fill="#161b22"/>
+<circle cx="20" cy="22" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="22" r="6" fill="#febc2e"/>
+<circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="100" y="27" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14" font-weight="bold">adityarajIITj@github</text>
+<line x1="20" y1="58" x2="470" y2="58" stroke="#21262d" stroke-width="1"/>
+<g class="info-row" style="animation-delay:0.80s">
+  <text x="28" y="82" fill="#69f0a0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14" font-weight="600">Now</text>
+  <text x="130" y="82" fill="#484f58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14">~</text>
+  <text x="148" y="82" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="13">B.Tech @ IIT Jodhpur</text>
+</g>
+<g class="info-row" style="animation-delay:1.05s">
+  <text x="28" y="110" fill="#39d353" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14" font-weight="600">Prev</text>
+  <text x="130" y="110" fill="#484f58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14">~</text>
+  <text x="148" y="110" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="13">Building cool side-projects</text>
+</g>
+<g class="info-row" style="animation-delay:1.30s">
+  <text x="28" y="138" fill="#26a641" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14" font-weight="600">Stack</text>
+  <text x="130" y="138" fill="#484f58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14">~</text>
+  <text x="148" y="138" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="13">Python · C++ · JS/TS · React · Node · Git</text>
+</g>
+<g class="info-row" style="animation-delay:1.55s">
+  <text x="28" y="166" fill="#0e9444" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14" font-weight="600">Highlights</text>
+  <text x="130" y="166" fill="#484f58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="14">~</text>
+  <text x="148" y="166" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'" font-size="13">Open-source contributor · Competitive programmer</text>
+</g>
+<rect x="28" y="196" width="24" height="10" rx="2" fill="#282a36"/>
+<rect x="56" y="196" width="24" height="10" rx="2" fill="#ff5555"/>
+<rect x="84" y="196" width="24" height="10" rx="2" fill="#50fa7b"/>
+<rect x="112" y="196" width="24" height="10" rx="2" fill="#f1fa8c"/>
+<rect x="140" y="196" width="24" height="10" rx="2" fill="#bd93f9"/>
+<rect x="168" y="196" width="24" height="10" rx="2" fill="#ff79c6"/>
+<rect x="196" y="196" width="24" height="10" rx="2" fill="#8be9fd"/>
+<rect x="224" y="196" width="24" height="10" rx="2" fill="#f8f8f2"/>
+</svg>
