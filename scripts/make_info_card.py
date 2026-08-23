@@ -19,7 +19,7 @@ ROWS = [
     ("Now",        "B.Tech @ IIT Jodhpur",                              "#69f0a0"),
     ("Prev",       "Building cool side-projects",                       "#39d353"),
     ("Stack",      "Python · C++ · JS/TS · React · Node · Git",        "#26a641"),
-    ("Highlights", "Open-source contributor · Competitive programmer",  "#0e9444"),
+    ("Highlights", "Open-source contributor · Real world solutions",   "#0e9444"),
 ]
 
 # Layout
